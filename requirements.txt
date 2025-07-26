@@ -43,7 +43,6 @@ nvidia-nccl-cu12==2.20.5
 nvidia-nvjitlink-cu12==12.5.40
 nvidia-nvtx-cu12==12.1.105
 pandas==2.2.2
-git+https://github.com/huggingface/peft.git
 pillow==10.3.0
 protobuf==4.25.3
 psutil==5.9.8
